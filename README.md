@@ -1,7 +1,7 @@
 # Calc_Partidas_Rankeadas
 Calculadora de Partidas Rankeadas
 
-# Fiz algumas alteracoes em relacao a valores para ficar mais engraçado, ja que meu jogo minhas regras... hauahuhuahaua
+### Fiz algumas alterações em relação a valores para ficar mais engraçado, ja que meu jogo minhas regras... hauahuhuahaua
 
 ## Entendendo o Desafio
  
